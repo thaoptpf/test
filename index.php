@@ -701,7 +701,6 @@ $(document).ready(function() {
   });
 
   $("#dialog-coppyvltl").dialog({
-    adfas
     resizable: false,
     autoOpen: false,
     height: 200,
